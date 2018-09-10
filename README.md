@@ -10,6 +10,7 @@ Projects and programs created for Programming Methodology Class, Summer 2018
 - Loops.cpp - demonstrates loops and control statements
 - Sizes.cpp - demostrates datatypes and datatype sizes in C++
 - Variables.cpp - demonstrates variable usage
+- Linecalc.cpp - simulates a line, its coordinate data, and slope 
 
 **Line.cpp, Line.h, point.cpp, and point.h are supplementary files for Linecalc.cpp**
 - Line.cpp - creates line algorithm to create a line with two points
